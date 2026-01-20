@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp/week01/Week01Cpp/Week01Cpp/Week01Cpp.vcxproj" Id="f2c8894c-b190-4c39-af90-ecc7d61296f9" />
+  <Project Path="csharp/week01/AllocLab/AllocLab.csproj" Id="dd853678-26fb-442c-a83b-bed68fc22f67" />
+</Solution>
